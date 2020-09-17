@@ -1,0 +1,25 @@
+
+h2 {
+    text-transform: uppercase;
+    /* color: darkgreen; */
+    /* color: #8c03fc; */
+    color: rgba(41, 43, 151, 0.3);
+}
+
+div p {
+    text-align: right;
+    font-style: italic;
+}
+
+p {
+    text-align: left;
+}
+
+.brown {
+    color: rgb(84, 53, 155);
+}
+
+#heading {
+    border-bottom: 15px solid rgb(0, 0, 0);
+}
+
